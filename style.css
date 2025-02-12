@@ -35,14 +35,14 @@ header p {
     color: #333;
 }
 
-.profile, .experience, .education, .skills {
+.profile, .experience, .education, .skills, .project {
     margin-bottom: 20px;
 }
 
-.profile p, .experience p, .education p, .skills p {
+.profile p, .experience p, .education p, .skills p, .project p {
     margin: 10px 0;
 }
 
-.experience h3, .education h3 {
+.experience h3, .education h3, .project h3 {
     margin-bottom: 5px;
 }
